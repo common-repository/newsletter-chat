@@ -1,0 +1,155 @@
+.NWCGNIG_warning {
+    color:red;
+    font-size:13pt;
+}
+
+.NWCGNIG_newschat-box {
+	background-color:#fefcff;
+	padding:20px;
+	border:none;
+	font:16px/26px Georgia, Garamond, Serif;
+	overflow:auto;
+	border-radius:25px;
+	
+}
+
+.NWCGNIG_newschat-box h5  {
+	padding:10px;
+}
+
+.NWCGNIG_newschat-box h4  {
+	padding:10px;
+}
+
+.NWCGNIG_newschat-box a {
+	padding:15px;
+}
+
+
+.NWCGNIG_newschat-footer {
+	text-align:center;
+	font-weight:bold;
+	color:grey;
+}
+
+.NWCGNIG_image-center {
+	display: block;
+	padding-top:10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.NWCGNIG_post_newsletter {
+	font-size:20pt;
+	color:green;
+	padding:1px;
+	font-family:Segoe UI;
+	font-weight:200;
+	text-align: center;
+	text-decoration: none;
+}
+
+.NWCGNIG_center-align {
+	text-align:center;
+	text-decoration: none;
+
+}
+
+.NWCGNIG_inline {
+	display:inline;
+}
+
+
+.NWCGNIG_alert-text {
+	font-family:Segoe UI;
+	font-size: 18pt;
+	text-align: center
+}
+
+.NWCGNIG_settings-intro {
+    
+	font:16px/26px Georgia, Garamond, Serif;
+	text-align:center;
+}
+
+input[type=checkbox] {
+    transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    padding-left: 15px;
+}
+
+.NWCGNIG_option-format {
+	padding-top:10px;
+}
+
+.NWCGNIG_posts-title {
+	font-size:14pt;
+	color:green;
+	padding:4px;
+	font-family:Segoe UI;
+	font-weight:200
+}
+
+.NWCGNIG_posts-value {
+	font-size:13pt;
+	font-family:Segoe UI;
+	font-weight:bolder
+}
+
+.NWCGNIG_newsletter-label {
+    font:16px/26px Georgia, Garamond, Serif;
+	font-weight:bolder
+}
+
+.NWCGNIG_newsletter-title {
+	font-size:20pt;
+	color:green;
+	padding:9px;
+	font-family:Segoe UI;
+	font-weight:200
+}
+
+
+
+.NWCGNIG_newsletter-value {
+	text-transform:uppercase;
+	font-weight:bolder;
+    font-family:Helvetica;
+}
+
+.NWCGNIG_newsletter-footer {
+	font-style:italic;
+    font-family:Helvetica;
+}
+
+.NWCGNIG_newsletter-link {
+	padding-top:25px
+}
+
+.NWCGNIG_page-link-text {
+	font-size:14pt;
+	color:green;
+	padding:4px;
+	font-family:Segoe UI;
+	font-weight:400
+}
+
+.NWCGNIG_page-link-section {
+     padding: 3px;
+
+}
+
+.NWCGNIG_page-link {
+	font-size: 13pt;
+	color:black;     
+}
+
+.NWCGNIG_final-tip {
+	font-size:16pt;
+	color:black;
+	font-weight: 300;
+}
+
+
+

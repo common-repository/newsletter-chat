@@ -1,0 +1,22 @@
+= 1.2 =
+
+
+* Added Tip under "Post on WhatsApp"
+* Added Headlines section in Admin
+* Added option for Newsletter page inclusion
+* Added option for website link inclusion
+* New CSS Styles.
+* Improved Design.
+
+= 1.1 =
+
+* Included CSS Styles.
+* Improved Design.
+
+= 1.0 =
+
+* Share Posts Published Today
+* Set Newsletter Title and Footer
+* Link To Read Posts Below Newsletter  
+* Shareable Newsletter page for fans
+* Support Inclusion
